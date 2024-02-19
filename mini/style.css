@@ -1,0 +1,75 @@
+body{
+    background-image: url(./IMG-20240219-WA0015.jpg);
+    background-size: contain;
+}
+
+
+.btn{
+    background-color: red;
+   
+}
+.b{
+    padding-left: 690px;
+}
+
+.bannnn{
+    padding-top: 150px;
+    padding-left: 40px;
+
+}
+
+.bannnn h1{
+    font-weight: 600;
+    font-size:100px ;
+}
+
+.main-card{
+    display: flex;
+    justify-content: space-around;
+    border: none;
+    padding-top: 130px;
+}
+
+.footer{
+    display: flex;
+    padding-top: 8 0px;
+    /* background-color: rgb(168, 162, 162); */
+}
+.foot1{
+    padding-top: 150px;
+    padding-left: 30px;
+    list-style-type: none;
+}
+
+.foot2{
+    padding-left: 60px;
+    line-height: 40px;
+    list-style-type: none;
+}
+
+.foot3{
+    padding-left: 60px;
+    line-height: 40px;
+    list-style-type: none;
+}
+
+.foot4{
+    padding-left: 60px;
+    line-height: 40px;
+    list-style-type: none;
+}
+    
+.form{
+    padding-top: 50px;
+    justify-content: space-between;
+    padding-left: 150px;
+}
+.form1{
+    padding-top: 20px;
+    justify-content: space-between;
+    padding-left: 150px;
+}
+
+.form1 a{
+    background-color: aqua;
+}
